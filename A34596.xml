@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief directions for our more devout behavior in time of divine service with a short rationale on the Common-prayer / by H.C.</title>
+            <author>H. C. (Henry Cornwallis), 1654?-1710.</author>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34596</idno><idno type="EEBO-CITATION">11151265</idno>
+  <idno type="VID">46443</idno>
+  <idno type="EEBO-PROQUEST">2248496257</idno>
+  
+            <idno type="STC">Wing C6331</idno>
+            <idno type="STC">ESTC R29492</idno>
+            <idno type="OCLC">11151265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A34596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1421:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brief directions for our more devout behavior in time of divine service with a short rationale on the Common-prayer / by H.C.</title>
+                  <author>H. C. (Henry Cornwallis), 1654?-1710.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[3], 47, [i.e. 39] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for J. Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Book of common prayer.</term>
+               <term type="topical_term">Public worship.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46443:1"/>
+            <p>BRIEF DIRECTIONS For our more Devout Behaviour In Time of <hi>Divine Service.</hi> With a Short <hi>Rationale</hi> on the <hi>Common-Prayer.</hi>
+            </p>
+            <p>By <hi>H. C.</hi>
+            </p>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. W.</hi> for <hi>J. Robinson,</hi> at the <hi>Golden Lyon</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46443:2"/>
+            <pb facs="tcp:46443:2"/>
+            <head>To the Honourable and truly Pious, the Lady <hi>Boteler,</hi> Wife to Sir <hi>Philip Boteler</hi> of <hi>Teston;</hi> The Author wisheth all Happiness here, and Eternal Glory hereaf<g ref="char:EOLhyphen"/>ter.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>TO whom should this Tract of Devotion fly for Protection, but to your Self, great Pattern and Patroness of Vertue and Religi<g ref="char:EOLhyphen"/>on? The Rules I here recommend to others, your constant Practice makes Authentick. To your Ladyship therefore, whose Ho<g ref="char:EOLhyphen"/>ly Desires, whose Orthodox and daily Prayers aim at nothing but Heaven and Happiness, and the everlasting Glories of
+<pb facs="tcp:46443:3"/> God's Mercy-Seat, in all humble Reve<g ref="char:EOLhyphen"/>rence I bend my Knee, and beg leave to dedicate these First-Fruits of my Pub<g ref="char:EOLhyphen"/>lick Labours. Which being crowned by your Ladyship's good Example, may tend to the Honour of God, the Instruction of others, and the eternal Welfare and Happiness of your obliged Servant in Christ Jesus.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46443:3"/>
+            <head>TO THE READER.</head>
+            <p>EXperience tells us, that some Persons who come into the Religious Assem<g ref="char:EOLhyphen"/>blies of the Church to worship God, for want of consideration, do absurd things, performing their Sacrifice to God in such a rude manner, as God cannot, and indeed will not accept of them. Some sitting so supinely at their Prayers, as if, with the Heathens, they worshipped Stocks and Stones, rather than a living and true God. Others come to the Church as unto a Play, to shew their Bravery, to be taken notice of and admired by the Spectators. Others strive for Places and Superiority, and the chief Seats in the Synagogues, and there vent their Pride, Anger and Malice, where they ought to express the greatest Humility and Charity. Others compose themselves to Sleep, as if the God they came to wor<g ref="char:EOLhyphen"/>ship,
+<pb facs="tcp:46443:4"/> like <hi>Baal,</hi> were asleep also; and they came to Honour him with that Gesture. All these express very little sence of the tremendous Majesty they come to worship.</p>
+            <p>Now to correct these Errors, and that Persons should come as they ought to come, both Reverently and Ʋnderstandingly, and do there what is fit to be done, I do free<g ref="char:EOLhyphen"/>ly offer to thy Meditation these following Directions; hoping thou wilt as freely ac<g ref="char:EOLhyphen"/>cept, as I kindly offer them unto thee. And I do pray the God of Heaven to direct thee, and give thee a right understanding in all things.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="directions">
+            <pb n="9" facs="tcp:46443:4"/>
+            <head>Brief Directions for our more devout Behaviour in the Time of Divine Service.</head>
+            <div type="introduction">
+               <p>COme not to the Publick Prayers, as Spectators to a Theatre, to hear much, learn little, and do nothing; but come out of a sincere Obedience to God's Commands; and with a full trust in his Promise, that he will be in the midst of those who are gathered together in his Name, to hear their Prayers, and to grant their Requests.</p>
+               <p n="2">2. Let us take care that we may be there from the Beginning to the End, that our Hearts and Tongues may bear a Part throughout. Which is a good means to make us Partakers, both of the <hi>Absolution</hi> at the Beginning of the Prayers, and of the <hi>Blessing</hi> at the End. Whereas if we come after they are begun, we do not only lose the Benefit of those Prayers which are over, but in some measure of the whole; they being so lin<g ref="char:EOLhyphen"/>ked together, in such an excellent Manner and Method, that they influence and assist each other: So that nothing can be omitted, either by Mini<g ref="char:EOLhyphen"/>ster or People, but the whole will suffer by it.</p>
+               <p n="3">3. Think it not lost time to frequent daily the
+<pb n="10" facs="tcp:46443:5"/> Publick Prayers of the Church; for in so doing we both acknowledge our Gratitude to our Cre<g ref="char:EOLhyphen"/>ator for his Beneficence towards us, and also shew that we are not ashamed of the Religion we pro<g ref="char:EOLhyphen"/>fess.</p>
+               <p n="4">4. Spend some time in your private Addresses to God, before you venture to make your ap<g ref="char:EOLhyphen"/>proach to God in Publick. Think not that the falling down on your Knees at your entrance into the Church, and mumbling a few Prayers in a Pew, is a sufficient Preparation for the Majesty of the great God we come to adore and worship. We read that the Elders of <hi>Israel</hi> trembled be<g ref="char:EOLhyphen"/>fore <hi>Samuel</hi> at his coming; and shall not we much more tremble when we go to meet our great <hi>Je<g ref="char:EOLhyphen"/>hovah</hi> in his Ordinances? Consider the Majesty of the great God we are going to wait upon, as al<g ref="char:EOLhyphen"/>so the vileness of our selves by reason of our Sins. O what Care, Fear, and Reverence is required in our Approaches to a God, before whom the An<g ref="char:EOLhyphen"/>gels vail and cover their Faces, as not being able to behold the brightness of his Glory! And if this lowly Reverence is done by Angels, who are in such nearness to God; what Posture can be low enough for us miserable Men, who in com<g ref="char:EOLhyphen"/>parison of those heavenly Spirits, are viler than the Ground we tread on?</p>
+               <p n="5">5. When you come to the Church-Door, con<g ref="char:EOLhyphen"/>sider that you are now upon entrance into the Presence-Chamber of the Great King of the World, whose Throne of Glory is in Heaven a<g ref="char:EOLhyphen"/>bove, but his Throne of Grace is in his Temple
+<pb n="11" facs="tcp:46443:5"/> here below. Say then to your self, <hi>Surely the Lord is in this Place. How dreadful is this Place? this is none other but the House of God; this is the Gate of Heaven. Blessed are they that dwell in thy House, they will be always praising thee.</hi> Most happy were I, could I both esteem it, and make it my greatest and constant Labour of Love to praise the Lord in his House.</p>
+               <p n="6">6. Having entred into the Church, with due Reverence, you may at your first kneeling down, present your selves to Almighty God in one of these or the like Ejaculations.</p>
+               <p>
+                  <hi>Let the Words of my Mouth, and the Medita<g ref="char:EOLhyphen"/>tions of my Heart, be now and ever acceptable in thy sight, O Lord, our Strength and our Re<g ref="char:EOLhyphen"/>deemer.</hi> Or,</p>
+               <p>
+                  <hi>Holy, Holy, Holy Lord God Almighty, who was, and is, and is to come.</hi> Fit us all for thy Service. Or,</p>
+               <p>O most merciful God, give us Grace to make the best use of our Time in thy House; graci<g ref="char:EOLhyphen"/>ously accept us all, who come hither to present our Selves, our Souls, our Bodies unto thee, for Jesus Christ his sake, who was pleased to present himself in the Temple for us, in great Humility and loving Kindness.</p>
+               <p n="7">7. All the while you are in God's House, car<g ref="char:EOLhyphen"/>ry your selves as in his special Presence, and su<g ref="char:EOLhyphen"/>table to the Work you are about; standing while you praise him, and kneeling while you pray un<g ref="char:EOLhyphen"/>to him, as the Church does direct.</p>
+               <p n="8">8. Take special care all along to keep your
+<pb n="12" facs="tcp:46443:6"/> Mind intent on the Matter in hand. When you confess your Sins, do it with a sincere and hearty Repentance for the Errors of your Life past. When you repeat the Hymns and Praises of God, raise up your Souls as high as you can, to join with those above in praising God above. To this End make a Covenant with your Eyes, not to gaze about to see who come into the Church, what Cloaths they wear. Take heed of a wan<g ref="char:EOLhyphen"/>dering and departing Heart: Fix your Eyes on the Minister, your Ears on the Word, your Heart on God. If a Man talk with his Neighbour, his Understanding is ordinarily fixed upon the Sub<g ref="char:EOLhyphen"/>ject he is discoursing of. And surely no Man can think that God deserves less Attention than Man. If with my Lips I pray, and my mind be at <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> if my Mouth sing, and my Thoughts are in my Shop; if I hear God's Word read, and my Thoughts are upon my Trade, or my worldly Business, 'tis a brutish, not a reasonable Service. We are commanded to pray with the Spirit and Understanding; that is, my Understanding and Thoughts must keep pace with my Prayer, and fix upon the tremendous Majesty of God whom I worship and adore. Indeed, very few are so happy as thus to fix their Thoughts upon a Spi<g ref="char:EOLhyphen"/>ritual Object, without the least variation or wan<g ref="char:EOLhyphen"/>dring of Thoughts: Yet he that intends to offer to God a reasonable Service, must hold his Un<g ref="char:EOLhyphen"/>derstanding and Affections close to it; and when they decline from the Point, reduce and bring them back again to their Center, from whence
+<pb n="13" facs="tcp:46443:6"/> they have swerved. And although the Service be interrupted, if it be not wilful, God will par<g ref="char:EOLhyphen"/>don our Infirmities, who are Men and not Angels, and so pardon and accept us for the sake of our Saviour Jesus.</p>
+            </div>
+            <div n="1" type="chapter">
+               <head>CHAP. I. Of the Exhortation.</head>
+               <p>VVHile the <hi>Exhortation</hi> is reading, stand gravely, and mind seriously the Business you are about. Fill your Hearts with humble and low Thoughts of your self, and reverend and high Thoughts of your Creator. When you come to the <hi>Confession,</hi> fall down on your Knees, that being the Posture commanded by the Church, as best becoming a Penitent: For if when I come to kiss the Hand of an Earthly Prince, I bend my Knee in testimony of my Subjection to him, much more when I make my solemn Addresses to my Heavenly King, by whom all others reign, I should do it with a pure Heart and humble Voice, and such bodily Reverence as is apt to express and signifie the infinite Distance that is between God and his sinful Creature. We read that when our Saviour pray'd to his Father, he kneeled, who knew no Sin; and is that Posture too low for us who are nothing but Sin? Hath not the great God said, <hi>Every knee shall bow to him;</hi> and shall any of us think to be dispensed with? Therefore
+<pb n="14" facs="tcp:46443:7"/> when you joyn with the People in confessing your Sins, fall down on your Knees, and confess not only your own sins in general, but as far as you are able, reckon up your own in particular, espe<g ref="char:EOLhyphen"/>cially those that are greater in themselves, or late<g ref="char:EOLhyphen"/>ly committed. When you come to that Expres<g ref="char:EOLhyphen"/>sion, <hi>[We have done those things which we ought not to have done]</hi> say, with a low Voice, <hi>Espe<g ref="char:EOLhyphen"/>cially such and such a Sin by me this Week com<g ref="char:EOLhyphen"/>mitted.</hi> And at the end of your Confession, when you beg to <hi>lead a Sober, Righteous and Godly Life,</hi> resolve to do it; or otherwise you do but mock God in his House, affront him in his Sanctuary, and tell him a Lie in your Prayers.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. Of Absolution.</head>
+               <p>NOW after this humble Confession, while we continue on our Knees, in the posture of Pe<g ref="char:EOLhyphen"/>nitents, the Priest, to whom God hath given Au<g ref="char:EOLhyphen"/>thority, doth pronounce to the Penitent, Pardon and Absolution: Not that he hath Power in him<g ref="char:EOLhyphen"/>self to absolve us; no, he is like a Herald at Arms, sent to bring a Pardon from a King to re<g ref="char:EOLhyphen"/>bellious Subjects, having no Power of himself to acquit the Malefactors. When therefore the <hi>Ab<g ref="char:EOLhyphen"/>solution</hi> is reading, receive it with all Gladness and Humility of Mind; begging, that the Pardon pronounced by the Priest in general, may be ap<g ref="char:EOLhyphen"/>plied
+<pb n="51" facs="tcp:46443:7"/> to your self in particular; bowing the Head, say softly in your Heart, <hi>Lord, let this Par<g ref="char:EOLhyphen"/>don pronounced by the Priest, fall upon my Soul, and seal thereunto the forgiveness of my Sins.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. Of the Lord's Prayer.</head>
+               <p>AND now looking upon our selves as absolved from our Sins, upon our Repentance and Faith in Christ; we take the boldness to put up our Petitions to him: And no better Prayer can we begin our Liturgy with, than our Saviour's own Prayer, the Pattern and Foundation of all our other Prayers; being so short, that the mean<g ref="char:EOLhyphen"/>est may learn it; so plain, that the most ignorant may understand it; and yet so full, that it com<g ref="char:EOLhyphen"/>prehends all our Wants, and intimates all our Duty. Now, being we hope to have our Prayers accepted of the Father, only for the Son's sake; Why should we not hope to have them most spee<g ref="char:EOLhyphen"/>dily accepted, when they are offered up in the Son's own Words? The Church enjoins us to repeat this Prayer after the Minister; our repeat<g ref="char:EOLhyphen"/>ing it, stirs up our Attention, quickens our De<g ref="char:EOLhyphen"/>votion, and helps us the better to regard the sense of each Petition. And if we do but consider the Stile of it, we may perceive that the Divine Au<g ref="char:EOLhyphen"/>thor intended it for a Publick Prayer; and chiefly for Publick Assemblies, it being a Common-Pray<g ref="char:EOLhyphen"/>er,
+<pb n="16" facs="tcp:46443:8"/> and all its Expressions so general; <hi>Our Fa<g ref="char:EOLhyphen"/>ther; Our daily Bread; Our Trespasses:</hi> So that every Man using it, prays for others as well as for himself, and exercises his Charity as well as his Devotion.</p>
+               <p>As for the <hi>Versicles</hi> and the <hi>Responses,</hi> they are Canonical Scripture, and most taken out of the Book of <hi>Psalms.</hi> By these we acknowledg our Dependance on God, and our inability to perform any Religious Duty well without him. They are used interchangeably by Minister and People, to testify mutual Love, to strengthen Affection, to stir up our Devotion, to kindle and inflame it in one another, and to oblige us to greater Attenti<g ref="char:EOLhyphen"/>on. In a word, by these they are taught, that they are as much concern'd in the Prayers of the Church, as the Priest, and ought to bear a part in them. For by these <hi>Versicles,</hi> and saying <hi>Amen</hi> to every Prayer, they not only hear how the Priest prays to God, but also makes every Prayer and Praise their own act; becoming active in the Service of God, and keeping up a sense of God and Re<g ref="char:EOLhyphen"/>ligion, and so may hope for a Blessing accord<g ref="char:EOLhyphen"/>ingly.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. Of the Doxology and Hallelujah.</head>
+               <p>AFter these pious Ejaculations lifted up unto God by the Priest and People, for Ability to praise him, and for speedy Succour and Relief a<g ref="char:EOLhyphen"/>gainst
+<pb n="17" facs="tcp:46443:8"/> our Enemies; then are we directed by the Church to stand up, that we may also, with united Hearts and Voices, in the highest Note, say, <hi>Glory be to the Father, and to the Son, and to the Holy Ghost.</hi> Thus we give Glory unto God, as becomes Christians; and we distinguish our selves from <hi>Jews, Turks, Pagans,</hi> and <hi>Infidels,</hi> in these most Christian Hymns, and that short Abridgment of our Creed, and Mystery of the Holy Trinity, in whose Name we were Baptized. Certainly 'tis very meet, right and just, to give Glory to God, because 'tis appropriate to God alone, 'tis his peculiar Right which he lays claim unto. Isa. 42.8. <hi>He is the King of Glory. The Heavens declare the Glory of God,</hi> Psal. 19.18. The Angels chant it forth, <hi>Luke</hi> 2.14. The Seraphims resound it: and do we think Man is less obliged to it than those Coelestial Spirits? No Place on Earth more proper for it than God's House, where every Man should speak of his Ho<g ref="char:EOLhyphen"/>nour; and no Posture more sutable than standing, for by it we shew our chearful readiness to give Glory to God, and our pious Resolution to stand fast in the Faith of the Holy Trinity. Some who professed Christianity, and favoured the Heresy of <hi>Arius,</hi> corrupted this Form of giving Glory unto God, and framed another in favour of their Heresy, differing from the Ancient Form, both in Word and Sense; as, <hi>Glory be to the Father by the Son, and in the Holy Ghost.</hi> But at last this Heresy was rooted out, and the old Form was restored: Upon the restauration of which, these
+<pb n="18" facs="tcp:46443:9"/> words were added by the Church, <hi>As it was in the Beginning, is now, and ever shall be,</hi> &amp;c.</p>
+               <p>As for those words, <hi>Praise ye the Lord;</hi> they are the same which the Hebrew word <hi>Hallelujah</hi> signify: Which being set at the beginning of the five last <hi>Psalms,</hi> may very properly be used at the beginning of any Portion of <hi>Psalms</hi> to be read; the whole <hi>Psalter,</hi> or Book of <hi>Psalms,</hi> being no<g ref="char:EOLhyphen"/>thing but Prayers and Praises.</p>
+               <p>It is placed next the <hi>Doxology,</hi> or, <hi>Glory be to the Father,</hi> &amp;c. as an Answer or Return there<g ref="char:EOLhyphen"/>unto. For whereas in that Hymn, we worship the Sacred Trinity; in this, we worship the Unity.</p>
+               <p>Or, it may be, as a triumphant Hymn, upon the joyful News of our Absolution, and overthrow of our Spiritual Enemies. For the Offices of the Church, being thus far Penitential, they do now by degrees begin to be Eucharistical, and advance in the Praises of God, as appears by the follow<g ref="char:EOLhyphen"/>ing Hymn.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. Venite, <hi>&amp;c. or,</hi> O come let us, <hi>&amp;c.</hi>
+               </head>
+               <p>IT follows next, that we should in the most chearful Posture, which is standing, exhibit our Lands and Praises as in the 9th Psalm, <hi>O come let us,</hi> &amp;c. This is an invitatory <hi>Psalm:</hi> for herein we do mutually invite and call upon one
+<pb n="19" facs="tcp:46443:9"/> another, being come before his Presence, to sing to the Lord, and set forth his Praise; to hear his Voice, in his Holy Word, with Joy and Chear<g ref="char:EOLhyphen"/>fulness. This Psalm, and indeed all others, as al<g ref="char:EOLhyphen"/>so the Hymns, ought to be answered Verse by Verse with the Minister: And in Cathedrals, one side of the Quire to say or sing one Verse; and the other side the other; to the intent, that by an holy Emulation, we may contend who shall serve God most affectionately; as also, that by this relieving one another, we may not grow weary of this Service.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP VI. Of the Psalms.</head>
+               <p>THE <hi>Psalms</hi> were anciently divided into seve<g ref="char:EOLhyphen"/>ral Portions, call'd <hi>Nocturns:</hi> By which Division the whole <hi>Psalter,</hi> or Book of <hi>Psalms,</hi> was read every Week: but our Church allows a Month's space for the reading of them in Pub<g ref="char:EOLhyphen"/>lick, and that by way of Responding, as was be<g ref="char:EOLhyphen"/>fore observed. Now the Reason why the Psalms are so frequently read over, is, because they con<g ref="char:EOLhyphen"/>tain the Flower and Quintessence of all things Spiritual and Divine, as being digested into Forms of Prayers, Thanksgivings, Praises, Confessions and Adorations, fit for every spiritual Temper and Necessity. Here the Penitent hath a Form of Confession; he that hath received a Benefit, a Thanksgiving; he that is in any kind
+<pb n="20" facs="tcp:46443:10"/> of Need, Ghostly or Bodily, hath a Prayer; all have Lauds, and all may adore the several Attributes of God, as Power, Wisdom, Love and Goodness, pati<g ref="char:EOLhyphen"/>ence and long-suffering, Justice and Mercy, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>David</hi>'s <hi>Psalms</hi> are Forms, which no Person may be either afraid or ashamed to use, being composed by the Inspiration of the Divine Spirit. But he that would make good use of them, must endeavour to form his Spirit according to the Af<g ref="char:EOLhyphen"/>fection of the <hi>Psalmist.</hi> If the Affection be of Love, that runs through the <hi>Psalm,</hi> it must be read with the same Affection; if of Fear, the Spirit of Fear should be imprinted on the Soul; if of Desire, it should be carried on with the same Transportation; if of Gratitude unto God, the Soul should be lifted up in Praises, and come with Affections that way inflamed.</p>
+               <p>Indeed some <hi>Psalms</hi> seem to have no propriety with the Spirit of Christianity, as being spent in calling for Vengeance upon Enemies, contrary to the Gospel-Spirit of Meekness, Mildness, and Love of Enemies, and the Example of Jesus, <hi>Luke</hi> 9.56. Who came not to destroy Mens Lives, but to save them. To this is answered, that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in those places, did not pray as a Petitioner, that God would bring such and such Judgments upon Sinners; but as a Prophet, and inspired with the Spirit of God, he did predict and denounce the just Judgments of God, that would inevita<g ref="char:EOLhyphen"/>bly fall upon such Persons. Such <hi>Psalms</hi> there<g ref="char:EOLhyphen"/>fore are rather Predictions and Prophecies, than Prayers; and may instruct us, although not in a
+<pb n="21" facs="tcp:46443:10"/> Literal, yet in a Spiritual Sense, to express our Revenge and Displeasure against our Sins and Lusts, which are God's and our greatest Ene<g ref="char:EOLhyphen"/>mies: So that in this respect our Indignation, Zeal and Imprecations are very seasonable.</p>
+               <p>Many things also in the <hi>Psalms</hi> may seem not to sute well with every Man's Condition at all times; So that the Spirit of the Reciter may meet with Contradiction, more than Advantage and Assistance: As for Example, A Man over<g ref="char:EOLhyphen"/>whelm'd with Grief, can't have a vigorous Spirit of Praise; or a Man in a prosperous Estate, can't have the Spirit of Humiliation. To this is answered, That both Humiliation and Praise are things no way improper, or impertinent to any Soul at any time; for in all afflictions there is some Spring of Joy and Consolation on this side Hell; as also in all Prosperity and Consola<g ref="char:EOLhyphen"/>tion, there is matter and occasion enough of Hu<g ref="char:EOLhyphen"/>miliation for Sin. Moreover it is to be confi<g ref="char:EOLhyphen"/>dered, that in Publick Services we must put on Publick Spirits, and mind the Condition of others as well as our selves, praying and praising God for others as well as our selves.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. Of the First Lesson.</head>
+               <p>AFter the <hi>Psalms,</hi> the Church gives a kind of Rest to our Devotions, that they tire not. Now we should, with Sobriety and Gravity, ex<g ref="char:EOLhyphen"/>pect
+<pb n="22" facs="tcp:46443:11"/> the Word of God, and say to our selves; <hi>O Lord, open the Eyes of my Ʋnderstanding, that I may behold the wondrous Things of thy Law!</hi> The reading of one Lesson out of the Old Testa<g ref="char:EOLhyphen"/>ment, and another out of the New, is an imita<g ref="char:EOLhyphen"/>tion of the Ancient Church; as the Jews used to read some Lessons and Portions out of <hi>Moses,</hi> and the other out of the <hi>Prophets,</hi> upon their Sab<g ref="char:EOLhyphen"/>baths and Festivals; which Portions of Scripture they call'd <hi>Sections</hi> and <hi>Tractates</hi> of a good Day. When therefore you hear the Minister read the Lessons, compose your self in such a reverend Posture, as if God himself were speaking unto you; and give diligent heed to every Word, that you may understand and apply it to your own Soul. Let us observe the Precepts, to do them; the Threatnings, to avoid them. Hear<g ref="char:EOLhyphen"/>ing a Precept and Command read, commune with your Heart, and say; This is the Command of God, and dare I disobey it? Shall I respect the Command of an Earthly Prince, and neglect the Mandate of my Heavenly Father? <hi>O that my Ways were made so direct, that I might keep thy Statutes.</hi>
+               </p>
+               <p>When you hear any of these Curses denounced against Sinners, tremble, if thou thy self be guilty of any of those Sins. When thou hearest Pro<g ref="char:EOLhyphen"/>mises, say in thy Heart; Are these God's Calls and Invitations, and shall I refuse them? Doth he knock at the Door of my Heart, and shall it not fly open, that the King of Glory may come in?</p>
+               <pb n="23" facs="tcp:46443:11"/>
+               <p>The <hi>Moral</hi> Books of the Old Testament, teach what we should do, and what we should shun. The <hi>Historical</hi> confirms our Faith in God's Providence, and confort us in our Afflictions, by shewing us what care God takes of us; and warns us against Sin and Iniquity, which God will not let go unpunished. The <hi>Poetick</hi> Books shew how we should live, give Instructions of Morality and Prudence. The <hi>Prophetick</hi> Books may teach us to admire the foresight of God, and confirm us in our Faith of the <hi>Messiah,</hi> who is come, and hath exactly fulfilled all those Prophecies; and so fit us for the Second Lesson.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. The Hymn, <hi>Te Deum; or,</hi> We praise thee, O God, <hi>&amp;c.</hi>
+               </head>
+               <p>BUT now, lest we should seem to be ingrate<g ref="char:EOLhyphen"/>ful for so great a Mercy as the Scripture is, which God hath not revealed to the Heathens, but hath given unto us, the Church hath inter<g ref="char:EOLhyphen"/>posed an <hi>Hymn</hi> between the <hi>Lessons;</hi> and indeed not without great Reason; for if we bless God for our Meat and Drink, how much more ought we to glorify him for the Food of our Souls? Shall we praise him for Temporal, and not for Spiritual Mercy? Shall we bless him for the Meat that perisheth, and not praise him for the Manna
+<pb n="24" facs="tcp:46443:12"/> that endureth for evermore? This <hi>Hymn</hi> is said to be composed by St. <hi>Ambrose</hi> and St. <hi>Austin,</hi> upon the Coversion and Baptism of St. <hi>Austin,</hi> wherein St. <hi>Ambrose</hi> was so instrumental; and they two used to sing it Anthem-wise. But be the Author as who-ever please to think, the Stru<g ref="char:EOLhyphen"/>cture, though Humane, is compleat, and the Materials of it are Divine, and it worthily chal<g ref="char:EOLhyphen"/>lenges a place in our constant Service, for its An<g ref="char:EOLhyphen"/>tiquity and Consonancy unto Scripture-Verity: As the Power and Majesty of God the Father, the Divinity and Humanity of God the Son; his Incarnation, Passion, Resurrection, Ascension, and coming in Glory to judge the World. Also the Divinity of the Holy Ghost, is in this Hymn asserted: And indeed nothing is in it, but what is agreeable unto Scripture; therefore it ought to be used by us. We are commanded to stand up at the repeating of it, in regard the erection of the Body fitly expresses the lifting up of the Heart in Joy; so that in Scripture, Rejoicing is call'd, the lifting up of the Head, <hi>Luke</hi> 21.28.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. Of the Second Lesson.</head>
+               <p>THE Church hath ordered the Second Lesson out of the New Testament, to shew unto us the Harmony between the Law and the Go<g ref="char:EOLhyphen"/>spel: For what is the Law, but the Gospel typi<g ref="char:EOLhyphen"/>fied?
+<pb n="25" facs="tcp:46443:12"/> and what is the Gospel, but the Law ful<g ref="char:EOLhyphen"/>filled? Things there prefigured, are here fulfilled and performed. Therefore when we hear the Se<g ref="char:EOLhyphen"/>cond Lesson read, let us see God's great Love to us, and what Christ suffered for us; and when we hear any of his Vertues read to us, such as his Patience, Meekness, Humility and Obedience, Devotion and Charity; let us think our selves con<g ref="char:EOLhyphen"/>cern'd to imitate him in those blessed Qualities: For God hath set him an Example, that we should follow his steps. Thus every part of Scripture may be of singular use to us, if we hear it with Attenti<g ref="char:EOLhyphen"/>on, apply it with Discretion, and practise it with Diligence. Moreover, the Church hath so ordered the reading of the Scriptures, that the <hi>Psalms</hi> are read over every Month; most of the <hi>Old-Testa<g ref="char:EOLhyphen"/>ment</hi> once in the Year, and the <hi>New</hi> thrice: And the Lessons are so sorted, that they may edify as much as any ordinary Sermon, did not the People value their own foolish Humour, above the Church's Prudence. I do therefore (saith a Learned Writer upon this Subject) admire, and much pity those Men, who seem mighty attentive, and place much Religion in hearing of a Sermon, and yet are per<g ref="char:EOLhyphen"/>fectly careless, &amp; seem almost to despise the read<g ref="char:EOLhyphen"/>ing of the Scripture; seeing whatsoever Autho<g ref="char:EOLhyphen"/>rity and Excellency any Sermon hath, it derives from the Scripture; and must be condemned by it, if not consonant to it. And now having heard of God's great Love in the Gospel, that we may not seem ingrateful for so great a Mercy, the Church hath provided us with another <hi>Hymn</hi> to praise him.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="26" facs="tcp:46443:13"/>
+               <head>CHAP. X. The Benedict; <hi>or,</hi> Blessed, <hi>&amp;c.</hi>
+               </head>
+               <p>WHEN the Gospel was first published to the World, the Angels sung Praise, and all holy Men to whom it was revealed, entertained these good Things with great Joy. Now what <hi>Hymns</hi> can be fitter to praise God with for our Salvation, than those which were the first Gratu<g ref="char:EOLhyphen"/>lations wherewith our Saviour was entertained, coming into the World? It was the Priviledge and Happiness of the Jewish Nation, that <hi>Moses</hi> and the <hi>Prophets</hi> were read in the Synagogues every Sabbath-Day; but, behold, a greater than <hi>Moses</hi> is here, even Christ himself, whom <hi>Moses</hi> and all the <hi>Prophets</hi> foretold should come; they saw afar off, what is present to us. Now hearing of this Love of God towards us in Christ Jesus, we can do no less than rise up and praise him, it being such a piece of Service as we hope shall be our Bu<g ref="char:EOLhyphen"/>siness and Employment to all Eternity.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. Of the Apostles Creed.</head>
+               <p>NEXT in order follows the Apostles Creed, being a Summary of our Christian Faith, to be rehearsed jointly, both by Minister and
+<pb n="27" facs="tcp:46443:13"/> People, all standing. Our standing up with the rest of the Congregation, is to to signify and de<g ref="char:EOLhyphen"/>clare, that we will stand to this Faith, and ear<g ref="char:EOLhyphen"/>nestly contend for it, as being that Faith which was once delivered to the Saints, composed in that Form and Method we now have it by the Apostles themselves, and convey'd unto us by an undeniable Tradition of the Church. The Place of this our Creed in the Liturgy, is soon after the Lesson of Holy Scripture out of which it was taken. Now since Faith comes by Hearing of the Word, and the Word of the Gospel does not profit, not being mix'd with Faith in them that hear it: We therefore, upon hearing of the Word: do exercise and profess our Faith, it is al<g ref="char:EOLhyphen"/>so placed just before the Prayers, as being the Foundation of our Petitions; for with what Confidence can we call upon him on whom we have not believed?</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. Of the Lord's Prayer, with the Versicles and Responses.</head>
+               <p>HAving all repeated our Creed together, and thereby given good proof of our being Members of the Catholick Church, and such as have a right to pray jointly with others, we then prepare our selves to pray. And since Salutations have ever been the Expression and Badg of that
+<pb n="28" facs="tcp:46443:14"/> mutual Love and Charity, without which we are not fit to pray; therefore we begin our Prayers with an ancient Form of Salutation taken out of the Holy Scripture: The Minister begins and salutes the People, with, <hi>The Lord be with you.</hi> And they lovingly return in like manner; <hi>And with thy Spirit.</hi>
+               </p>
+               <p>Surely, where there are such joint Prayers with such mutual Love, offered up for each other, the Holy Angels will carry such charitable Desires unto God Almighty; and he who is essential Love and Goodness, will as <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dily receive them. A Christian Congregation, calling thus upon God with one Heart, and with one Voice, and in a reverend and humble Posture, look as beautiful as <hi>Jerusalem,</hi> or a City that is at Unity with it self.</p>
+               <p>Then follows, <hi>Let us pray.</hi>
+               </p>
+               <p>Which is a kind of Spiritual Watch-word, or Signal unto the Battel, to summon us all, with united Forces, to besiege Heaven with our holy Importunities; as also a warning to every one to lay aside all vain Thoughts, and only mind that great Work we have in hand: For although the Minister do speak most of the Words, yet by that Expression, he invites and conjures all, to let their Hearts and Affections go along in every Petition.</p>
+               <q>
+                  <l>Lord, have Mercy upon us.</l>
+                  <l>Christ, have Mercy upon us.</l>
+                  <l>Lord, have Mercy upon us.</l>
+               </q>
+               <pb n="29" facs="tcp:46443:14"/>
+               <p>These three <hi>Versicles</hi> are taken out of <hi>David</hi>'s <hi>Psalms,</hi> and thrice made use of in the Liturgy, as a shorter Supplication to the Trinity. We have offended every Person of the Blessed Trinity, and therefore we supplicate and beg Mercy of them all; and also implore the Assistance of the Tri<g ref="char:EOLhyphen"/>nity, to whom we pray.</p>
+               <p>After this short Litany, called the <hi>Christian's lesser Litany,</hi> follows the <hi>Lord's Prayer,</hi> which is the pattern of Prayers. And it is here a second time repeated, that in case we did not put up any Pe<g ref="char:EOLhyphen"/>titions with Fervency enough before, we may now make amends, by asking for it with a dou<g ref="char:EOLhyphen"/>ble earnestness.</p>
+               <p>After the <hi>Lord's Prayer,</hi> follow divers <hi>Versicles,</hi> taken out of <hi>David's Psalms.</hi> The Minister stands up, to testify the Authority of his Fun<g ref="char:EOLhyphen"/>ction, in making Intercession by Prayer to God: and he and the People send up several pithy Eja<g ref="char:EOLhyphen"/>culations unto Heaven, for Mercy and Salvation, for King and Subjects, for Minister and People, for Grace and Holiness, being the Sum and Sub<g ref="char:EOLhyphen"/>stance of the following <hi>Collects.</hi>
+               </p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. Of the Collects, Litany, Prayer of St. <hi>Chrysostom,</hi> and the Blessing.</head>
+               <p>
+                  <hi>COllects</hi> are so called, as being Prayers in short Sums, containing much Matter in few Words; like so many choice Flowers, gathered
+<pb n="30" facs="tcp:46443:15"/> and collected out of the Scripture's Garden, and bound up in little Posies, to be offered and pre<g ref="char:EOLhyphen"/>sented unto God, by and through Jesus Christ.</p>
+               <p>The <hi>First Collect</hi> here mentioned for the Day, is always fitted for the Day, and framed for the most part in reference to something remarkable in the Epistle or Gospel for the Day.</p>
+               <p>The <hi>Second Collect</hi> is for Peace; because we can't well pray, and offer Prayers acceptable to God, without Peace; for where there is no Peace, there can be no Piety, Godliness, or Ho<g ref="char:EOLhyphen"/>nesty, the Love of God, and the Love of our Neighbour.</p>
+               <p>The <hi>Third Collect</hi> is for Grace; because if the Grace, and Love, and Spirit of God, do not rule in our Hearts here, we can't have Happiness with God hereafter: for Grace is Glory begun, and Glory is Grace finished.</p>
+               <p>Upon <hi>Wednesdays, Fridays</hi> and <hi>Sundays,</hi> is the <hi>Litany</hi> appointed to be read in our Churches. The word <hi>Litany</hi> imports no more, but a certain Form of most earnest Supplications; and such indeed is this our <hi>Litany,</hi> wherein Priest and Peo<g ref="char:EOLhyphen"/>ple are to strive together, as mutual helpers of each other, in wrestling with God for a special Blessing upon ourselves and others. It contains,
+<list>
+                     <item>1. An Invocation of the Blessed Trinity.</item>
+                     <item>2. Deprecation from all Spiritual, Temporal, and Eternal Evils.</item>
+                     <item>3. Intercessions for the whole Church, King, Nobility, Clergy, Gentry and Commonalty.</item>
+                     <item>4. For all Graces needful for us and others.</item>
+                  </list>
+               </p>
+               <pb n="31" facs="tcp:46443:15"/>
+               <p>All these Prayers are so grave, pious and profi<g ref="char:EOLhyphen"/>table, that there is not extant a more artificial Composure for the raising our Devotions, and keeping them throughout, than this part of our Liturgy.</p>
+               <p>Then we conclude with the Prayer of St. <hi>Chry<g ref="char:EOLhyphen"/>sostom,</hi> and the Apostolical Form of Blessing in the Name of the Holy Trinity, saying, <hi>The Grace of our Lord Jesus Christ, the Love of God, and the Fel<g ref="char:EOLhyphen"/>lowship of the Holy Ghost,</hi> &amp;c.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP XIV. Of the Communion-Service.</head>
+               <div type="section">
+                  <p>UPON Sundays and Holy-Days, we proceed to the <hi>Communion-Service;</hi> so called, and so used, because the Ancient Christians, every Day, and latter Ages, at least upon every Festival, did administer and receive it. We begin this Office, as all other Services, with the Lord's Prayer. And the Church borrows this Custom from the Primitive Christians, who always used it in the Celebration of this Sacrament, as the Fathers te<g ref="char:EOLhyphen"/>stify. Yea, St. <hi>Jerom</hi> affirms, that our Lord Christ himself taught it his Apostles, to the in<g ref="char:EOLhyphen"/>tent it might be used at this Holy Service. Here<g ref="char:EOLhyphen"/>upon the same Father, and many others do ex<g ref="char:EOLhyphen"/>pound that Petition <hi>[Give us this Day our daily Bread]</hi> of the Bread of Life, the Spiritual and Sacramental Body of Christ, the which in those
+<pb n="32" facs="tcp:46443:16"/> Days they even daily received: and indeed all the rest of that incomparable Service is suitable, and to be applied to that Mystery.</p>
+                  <p>Next to the <hi>Lord's Prayer,</hi> follows the <hi>Col<g ref="char:EOLhyphen"/>lect for Purity,</hi> being an holy Aspiration after Divine Charity, that is, the sincere Love of God and of our Neighbour: And this is a fit Introdu<g ref="char:EOLhyphen"/>ction to the <hi>Communion-Service,</hi> as also a proper Preface to the <hi>Commandments:</hi> For the pure Bo<g ref="char:EOLhyphen"/>dy of Christ must be received into a Heart puri<g ref="char:EOLhyphen"/>fied by Divine Love. And as the People were to be sanctifi'd before the first giving of the Law, (<hi>Exod.</hi> 19.14.) so must we have Hearts purifi'd by Divine Love, and Holy Desires of serving God, lest the Commands be an Occasion to stir up Concupiscence in us, rather than Charity, the End of the Commandment.</p>
+                  <p>Here follow the <hi>Commandments,</hi> and that ve<g ref="char:EOLhyphen"/>ry fitly before the <hi>Administration</hi> of the <hi>Holy Sacrament;</hi> that so all Persons may see their Sins in the Glass of the Law: as also to remind them of their Baptismal Vow, and Obligation of keeping God's Commandments, which they come to repeat and renew in the Sacrament of the Altar. Therefore when we hear the Com<g ref="char:EOLhyphen"/>mandments, we must receive them with equal Reverence and Humility, as if God himself spake from Mount <hi>Sinai.</hi> And because we have of<g ref="char:EOLhyphen"/>fended against all and every of them, we must fall down as Criminals ought to do, and dili<g ref="char:EOLhyphen"/>gently consider, as the Priest reads, what Sins we have committed, and what Good omitted in
+<pb n="33" facs="tcp:46443:16"/> relation unto every Commandment; and so be ready to say, at the end of every Commandment, <hi>Lord, have Mercy upon us, and forgive us these great Offences:</hi> And that sorrow for Sin may pass into the Love of God, we must add, <hi>O do thou incline our Hearts to keep this Law.</hi> In the use of these Means, by the Grace of God, we may mor<g ref="char:EOLhyphen"/>tify Concupiscence, and enkindle Divine Charity in the Soul, by which we shall be fitly prepared and disposed for the Holy Communion of the Body and Blood of Christ, which is the Sacra<g ref="char:EOLhyphen"/>ment of Love.</p>
+                  <p>After the Commandments and the Collects, for the King and the Day, follow the <hi>Epistle</hi> and <hi>Gospel;</hi> a Custom the Church borrows from the Jews, who read the History of their Delive<g ref="char:EOLhyphen"/>rance from <hi>Egypt,</hi> before the Passover; the Pri<g ref="char:EOLhyphen"/>mitive Christians did read select Portions of Scrip<g ref="char:EOLhyphen"/>ture, out of the New Testament, before the Celebration of the Eucharist. Yea, they did not eat their common Meals without reading some part of Holy Scripture, and this because St. <hi>Paul</hi> said, <hi>Every Creature was sanctified by the Word of God and Prayer.</hi> These <hi>Epistles</hi> and <hi>Gospels</hi> are the most choice and practical Parts of the New Testament. The <hi>Epistle</hi> is read first, as being the Word by the Mediation of Servants; and therefore the Church permits to sit thereat. The <hi>Gospel,</hi> which follows, be<g ref="char:EOLhyphen"/>ing the Word of our Master himself, we are commanded to stand up; and after it is read, we say an <hi>Hallelujah,</hi> or, <hi>We praise thee, O God, for thy Holy Gospel.</hi>
+                  </p>
+                  <pb n="34" facs="tcp:46443:17"/>
+                  <p>After the Gospel, follows the <hi>Creed,</hi> call'd the <hi>Nicene,</hi> or <hi>Constantinopolitanean Creed.</hi> The which, as also that other <hi>Creed</hi> of St. <hi>Athanasi<g ref="char:EOLhyphen"/>us,</hi> do exactly contain the Articles and Mysteries of Faith in the Apostles Creed; differing only in some additional Expressions, declaring the an<g ref="char:EOLhyphen"/>cient Faith of the Church, in Bar and Opposi<g ref="char:EOLhyphen"/>tion to such Heresies as disturbed the Church in the several Ages they were composed. This Creed is appointed to be read before the Sacra<g ref="char:EOLhyphen"/>ment, to shew, that all Communicants should be free from Heresy, and in Unity and Charity with the Catholick Church.</p>
+                  <p>After the <hi>Confession</hi> of our <hi>Faith,</hi> follows the Exercise of our <hi>Charity,</hi> without which it would be but a dead Faith, <hi>James</hi> 2.22.</p>
+                  <p>Now this Charity to our Neighbour is expres<g ref="char:EOLhyphen"/>sed three ways.
+<list>
+                        <item>1. By giving Alms; and to this purpose are the Sentences at the Offertory.</item>
+                        <item>2. By Prayer, which is a Spiritual Alms; and this is perform'd in the Prayer for the whole State of Christ's Church Militant; and herein, for all that are in Trouble, Sorrow, Need, Sickness, or any other Adversity.</item>
+                        <item>3. By forgiving all Injuries done to our selves, and making Satisfaction to others for the Injuries done unto them; and this we are reminded of in the Exhortation before the Communion.</item>
+                     </list>
+                  </p>
+                  <p n="1">1. Giving Alms is frequently commanded in the Gospel; as also recommended unto us, by the Example of our Saviour himself, who gave
+<pb n="35" facs="tcp:46443:17"/> Alms at the Passover, <hi>John</hi> 13.29. Nay, he supposes, <hi>Matth.</hi> 5.23. that we will come with our Gift unto the Altar, and not appear before the Lord empty: and therefore he there directs and commands, to bring along inward and cor<g ref="char:EOLhyphen"/>dial Love, with outward Alms and Charity. The Primitive Christians us'd to have Collections every Lord's Day; many of them gave all they had; many a considerable part of what they possessed, and that because the Necessity of the Church required such Contributions at that time, having nothing other-ways to maintain Minister, Poor, or to procure things necessary for the Wor<g ref="char:EOLhyphen"/>ship and Service of God in Religious Assem<g ref="char:EOLhyphen"/>blies. And though these Things and Persons are otherwise provided for at this Time, yet all <hi>Col<g ref="char:EOLhyphen"/>lective Charity</hi> is not Superfluous, upon certain Occasions; especially at the <hi>Receiving of the Sa<g ref="char:EOLhyphen"/>crament:</hi> For when we there Feast with God, we can't for shame forget his poor Servants. The Religious Persons amongst the Jews, used to dedi<g ref="char:EOLhyphen"/>cate the thirtieth part of their income to the Poor. And many good Christians, blessed by God with good Estates, have every Week laid apart some part of their Substance for the Relief of the Poor.</p>
+                  <p>The second way of exercising our Love and Charity, is by <hi>Prayer.</hi> We know not the Ne<g ref="char:EOLhyphen"/>cessities of all; and if we did, we have not abi<g ref="char:EOLhyphen"/>lity to succour and relieve them: In this Case we must love all, pray to God who is able to help all; and exclude none from our Prayers, but
+<pb n="36" facs="tcp:46443:18"/> implore the Mercies of God for the Spiritual and Temporal Necessities of all Men in the Church Militant here on Earth.</p>
+                  <p>After this Prayer is ended, we are invited, by the Priest, to the Sacrament of the Altar, the <hi>Holy Communion</hi> of the Body and Blood of Christ.</p>
+                  <p>Now lest we should approach this Holy Table in a State of Sin, and not in Grace, and so ob<g ref="char:EOLhyphen"/>tain a Curse, and not a Blessing, the Church or<g ref="char:EOLhyphen"/>ders two <hi>Exhortations;</hi> the one designed to en<g ref="char:EOLhyphen"/>crease the Number, the other to rectify the Dis<g ref="char:EOLhyphen"/>positions of the Communicants, that so the Assembly may be both Great and Good, and such as God may delight in.</p>
+                  <p>In these <hi>Exhortations</hi> we are call'd upon, a<g ref="char:EOLhyphen"/>mongst other things, to be in perfect Charity with our Neighbours, by forgiving Injuries; making Satisfaction and Restitution to others, for any thing unjustly gotten or detained from them: and that is the last part of Charity before-mentioned.</p>
+                  <p>And thus I have led you to the <hi>Holy Commu<g ref="char:EOLhyphen"/>nion:</hi> And for the instructing of your Behaviour there, take these few Rules.</p>
+                  <p n="1">1. It hath been the Custom of well-disposed Christians, to receive the Sacrament fasting.</p>
+                  <p n="2">2. When you hear the Minister invite you to come to the Lord's Table, propound to your self that Invitation by way of Question: Do I truly and earnestly repent me of my Sins? Am I in Love and Charity with my Neighbours? Do I
+<pb n="37" facs="tcp:46443:18"/> intend to lead a Godly Life, to avoid all occasions of Sin, and abstain from all appearance of Evil, loving and delighting to do the Will of God, and walk in his Love? So finding your self a<g ref="char:EOLhyphen"/>ble to return the Answer of a good Conscience before God, draw near and take the Holy Sacra<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Here follows <hi>Confession</hi> and <hi>Absolution.</hi> Then say, O Lord, and Merciful Father, as at the words of thy Angel, the Chains fell from the Hands and Feet of St. <hi>Peter,</hi> and he was imme<g ref="char:EOLhyphen"/>diately restored to Liberty: So grant, dear Lord, that by the Ministry of thy Church, the Chains of my Sins may be loos'd, and all my Offences pardoned, through the Merits of Jesus Christ.</p>
+                  <p>When the Minister says, <hi>This is a faithful Say<g ref="char:EOLhyphen"/>ing, and worthy of all to be received, that Jesus Christ came to save Sinners:</hi> say to your self, <hi>Of whom I am the greatest.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Consider here Christ's Invitation, <hi>Mat</hi> 11.28.</head>
+                  <p>Come unto me all you that labour in Tempta<g ref="char:EOLhyphen"/>tion and Trouble; all you that are overladen with your burthensome Body and bad Nature; all you that are assaulted with vicious Inclinations and violent Passions; all you that are dismay'd at the memory of your past Offences, and at the feeling of your present Frailty, Come to me your Father, your Physician, your Food. Have you sinn'd? I will forgive you. Are you sick and wounded? I will comfort and cure you. Are you
+<pb n="38" facs="tcp:46443:19"/> troubled and tempted? I will ease and deliver you. Are you weak, and ready to faint under your Burden? I will nourish and strengthen you. Are you cold, dull, dark and desolate? I will in<g ref="char:EOLhyphen"/>flame you, enlighten and revive you, and trans<g ref="char:EOLhyphen"/>form you into my self, by a perfect Union, by the Divine Grace and Spirit. Why come you not to me? Behold, I come to you, begging to be your Guest, and desiring to be lodg'd in your Breast. I come not only into your House, but into your Heart; not only to eat with you, but to be spiritually received by you. Turn away then, O Soul, from all Creatures; return to me your Crea<g ref="char:EOLhyphen"/>tor, your Center, your Happiness and Satiety.</p>
+               </div>
+               <div type="section">
+                  <head>The Soul's Answer to Christ's Invitation.</head>
+                  <p>I come to this Sacrament, O my Saviour, in obedience to thy sweet Invitation, and upon con<g ref="char:EOLhyphen"/>sidence in thy saving Merits and Mercy. I can't come to thee, but by thee: send down thy Grace and Spirit upon my Soul; strengthen my Faith, increase my Hope, inflame me with thy Divine Love and Charity, that so I may now be raised from Earth, to the Knowledge, and Love, and Meditation of things Heavenly and divine; that I may Spiritually, as well as Sacramentally, re<g ref="char:EOLhyphen"/>ceive, and be vitally united with thee; that so I may die to my own Will, and to all irregular Af<g ref="char:EOLhyphen"/>fections to Creature-vanity, and be totally aban<g ref="char:EOLhyphen"/>doned to thy Divine Will; that thou living in me, and I in thee, I may by thee be gracious in the
+<pb n="39" facs="tcp:46443:19"/> Eyes of thy Heavenly Father. Even so come Lord Jesus, come quickly.</p>
+                  <p>
+                     <hi>When the Priest goes to Consecrate, say;</hi> The Lord hear thee, the Lord remember all thy Of<g ref="char:EOLhyphen"/>ferings, and accept thy Sacrifice; grant thee thy Heart's Desire, and fulfil all thy Mind: the Lord fulfil all thy Petitions, for thy Self, for Us, and for all his People.</p>
+                  <p>
+                     <hi>When he pours out the Wine, say;</hi> O let thy Blood, thy Grace and Spirit flow upon my wound<g ref="char:EOLhyphen"/>ed and sin-sick Soul, that I may be a sound Mem<g ref="char:EOLhyphen"/>ber of thy Mystical Body, the Church.</p>
+                  <p>
+                     <hi>When the Minister lays his Hand on the Bread, say;</hi> O Merciful Saviour, lay hold on my Soul, as the Angel did on <hi>Lot;</hi> save me from the Flames, and let me escape to the Mount of God, that I perish not.</p>
+                  <p>
+                     <hi>When the Minister breaks the Bread, say;</hi> Lord Jesus! in suffering thy Body to be broken for my Sins, I see the vehement strength and fervour of thy Divine Love; O make me all Love; melt me away in the fire of thy Charity; swallow me up in thy Divinty; wean my Soul from all ter<g ref="char:EOLhyphen"/>rene and temporal Affections, and wed it unto thy self, by an inviolable tie of Love and Fide<g ref="char:EOLhyphen"/>lity, that I may never be separated from thy Love, in Time, or in Eternity.</p>
+                  <pb n="40" facs="tcp:46443:20"/>
+                  <p>
+                     <hi>When the Priest pronounceth these words,</hi> This is my Body. This is my Blood, <hi>&amp;c. say,</hi> Amen. And, Lord, I believe thy real spiritual Presence, beneficial to the Souls of Men. O Sacred Feast, wherein Christ himself is received, and the Me<g ref="char:EOLhyphen"/>mory of his Passion renew'd; our Minds still'd with Grace, and our future Glory secur'd by a dear and precious Pledge!</p>
+                  <p>
+                     <hi>When you receive the Consecrated Bread, say;</hi> Lord, I am not worthy thou shouldst come under my Roof: Yet I beseech thee, speak the Word, and my Soul shall be saved: Fill every corner of my Soul with thy Grace and Spirit; possess me, guide me, and govern me; thy Will be done in me, by me, and upon me, in Time and in Eternity. Lord, now dismiss thy Servant in Peace, for my Eyes have seen thy Salvation.</p>
+                  <p>
+                     <hi>When you receive the Holy Cup, say;</hi> It is fi<g ref="char:EOLhyphen"/>nished. Thanks be unto God for his unspeakable Gift! As Wise as God is, he knows not what more to give us; As Rich as he is, he hath no more to give; as Powerful as he is, he can give us no more. My God, and all things! whom have I in Heaven but thee? and there is none on Earth that I desire beside thee! Thy Self, O sweet Saviour, is all I want; and thy Love is all I wish for.</p>
+               </div>
+               <div type="section">
+                  <pb n="41" facs="tcp:46443:20"/>
+                  <argument>
+                     <p>[Now it falls out often, that when we have com<g ref="char:EOLhyphen"/>municated, and our Souls have been fed at the Lord's Table; a considerable space of Time re<g ref="char:EOLhyphen"/>mains, before the united Praises and Thanksgi<g ref="char:EOLhyphen"/>vings of the Congregation begin: This Time, more or less, must not be spent in looking about, or sitting still, but in Holy Aspirations and Heavenly Meditations; such as follow, or the like.]</p>
+                  </argument>
+                  <p>Who shall separate me from the Love of God in Christ Jesus? Not fear of Death, because thou, O Lord, art the Life of my Soul: Not the Love of Creature-Vanity, because I despise it: Not Tribulation, because thou, O God, art with me, and thy Comforts shall refresh my Soul: Not Hunger, Nakedness, or Poverty; because thou art my Food, Covering, and Riches: Not Persecution and Violence, because these are plea<g ref="char:EOLhyphen"/>sant to me, for Truth and Righteousness-sake, which thou commandest: Nor any other Creature can separate us, because all is Vanity and Nullity in respect of thee. Thou, O God, who de<g ref="char:EOLhyphen"/>lightest to be with the Children of Men, behold this poor Habitation, Body, Soul and Spirit, all is thine; I conceal nothing, I reserve nothing. Quiet all unruly Passions; impose upon me what thou pleasest, and dwell sweetly in my Soul, and permit no foul, false or foolsh Affection to interpose it self, or disturb this Quiet, Peace, and Union between us for ever. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="42" facs="tcp:46443:21"/>
+                  <head>An Intercession for others.</head>
+                  <p>I Humbly represent unto thee, O God, the Sa<g ref="char:EOLhyphen"/>crifice, which our Lord Christ made of him<g ref="char:EOLhyphen"/>self upon the Cross, and by a never-ceasing In<g ref="char:EOLhyphen"/>ter cession, now offer to thee in Heaven, in behalf of all that have communicated this day; and in behalf of all that desire so to do, and are hindred. Give to me and them a Part and Portion of all the good Prayers made in Heaven and Earth, the In<g ref="char:EOLhyphen"/>tercession of Christ, and the Supplication of his Servants; and unite us all, in the Bands of the Common Faith, and Universal Charity.</p>
+                  <p>Give to all Christian Kings, Princes and Go<g ref="char:EOLhyphen"/>vernours, the Spirit of Justice and Mercy, Pru<g ref="char:EOLhyphen"/>dence and Diligence; the Favour of thee our God, and the Love of their People.</p>
+                  <p>Give an Apostolick Spirit to all Ecclesiastical Persons; a Zeal for the Salvation of Souls; Wisdom to conduct their Charges; holy and ex<g ref="char:EOLhyphen"/>emplary Lives, that their Labours and their Lives may greatly promote the Honour and the Kingdom of the Lord Jesus.</p>
+                  <p>Bless all States and Conditions of Men and Women in the Christian Church; the Gover<g ref="char:EOLhyphen"/>nors and the Governed, the Rich and the Poor, High and Low; grant them the several Graces necessary for their several Stations and Conditi<g ref="char:EOLhyphen"/>ons; that they may live with so much Religion and Piety, Truth and Justice, Sobriety and Pa<g ref="char:EOLhyphen"/>tience,
+<pb n="43" facs="tcp:46443:21"/> continuance in Well-doing, that thy Will may be done on Earth as it is in Heaven.</p>
+                  <p>Relieve all that are oppressed, defend and re<g ref="char:EOLhyphen"/>store their Rights, and suppress all violent and warring Spirits, that unjustly disturb the Peace of Christendom: Comfort and support all Persons that are any ways afflicted or distressed in Mind, Body or Estate; shorten the days of our Trou<g ref="char:EOLhyphen"/>ble, and put an end to the days of our Sin; and let the spiritual Kingdom of our Lord Jesus be set up in every one of our Hearts.</p>
+                  <p>Bless all my Relations, Friends and Benefactors, all that have said well of me, or done good to me: Grant them, O Lord, whatsoever they want, or wisely and holily desire: Keep them, by thy Grace and Spirit, in thy Fear and Favour, that they may not sin against thee, and fall into thy Displeasure, and be separated from thy Love and Presence.</p>
+                  <p>Have Mercy upon all my Enemies, who bear me ill Will, and would do me harm; bridle and restrain their Malice: and their Faults and mine, by such easie methods of Providence, vouchsafe to reform and amend, that we may be saved Souls together in Heaven.</p>
+                  <p>Have mercy upon all Strangers from the King<g ref="char:EOLhyphen"/>dom of our Lord Jesus Christ. Call home the Jews; and let the Fulness of the Gentiles come in, that all Flesh may see the Salvation of God.</p>
+                  <p>Give Grace to all wicked Persons, that they may repent, and live well, and be saved. To all Godly People give encrease of Grace and Perse<g ref="char:EOLhyphen"/>verance
+<pb n="44" facs="tcp:46443:22"/> in the Ways of Holiness, Truth and Ju<g ref="char:EOLhyphen"/>stice. To all Hereticks and Schismaticks, give the Spirit of Humility and Truth; Charity and Obedience to all Rebellious and Disobedient Spi<g ref="char:EOLhyphen"/>rits; give them a sense of their Duty, from whence they are fallen, that they may repent and do their first Works.</p>
+                  <p>For all Mankind whom I have, and whom I have not, and whom I ought to remember, I humbly represent the Sacrifice of Jesus, his Me<g ref="char:EOLhyphen"/>rits and Obedience, his Life and Death, Resur<g ref="char:EOLhyphen"/>rection and Ascension, his Love and powerful Intercession; praying to thee, O God, for his sake, to grant us all true Repentance, Hatred of sin, and a Love, Complacency and Delight in the Ways of Goodness, and persevering in Holiness, that we may be led by thy Spirit, and devoted to thy Will, that so our Souls may be saved. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for a happy Death.</head>
+               <p>O Dear Lord Jesus, I most humbly beseech thee, by those bitter Pains and Pangs which thou suffered for me in thy bitter Passion; and particularly in the hour wherein thy Divine Soul passed forth of thy Blessed Body, take pity upon my poor and sinful Soul in her last Agony, and in her passage to Eternity. 'Tis thou, O Sovereign Goodness, who art the Original and daily Pre<g ref="char:EOLhyphen"/>server of my Life; and 'tis from thee alone that I can expect the Grace of an happy Death.
+<pb n="45" facs="tcp:46443:22"/> Thou didst not make this Death, which sepa<g ref="char:EOLhyphen"/>rates Soul and Body; 'twas Sin which brought it into the World: had not Man strayed from thy Precept, he had not been subject to this severe Punishment. But yet thy Divine Son, by endu<g ref="char:EOLhyphen"/>ring Death, hath changed its harsh Nature, and through his Means and Merits it may now be made a Sacrifice most pleasing to thy Majesty, and a glorious Passage from Time to Eternity. This is the Death I here most humbly desire of thy Divine Bounty, as the Crown of all thy Mer<g ref="char:EOLhyphen"/>cies: for thou, O Lord, lookest not so much up<g ref="char:EOLhyphen"/>on the Beginnings of thy Children, as upon their final End and Consummation; and the Eter<g ref="char:EOLhyphen"/>nity of their Glory or Misery, depends upon the last moment of their Life. Then it is, that the Tempter tries all ways to prevail over the weakness of our Spirit, either to swell it up into a dangerous Presumption, or deject it into a more dangerous Despair. Then it is, that all the sin<g ref="char:EOLhyphen"/>ful Passages of our Life come swarming into our Memories, to strike us into a sad Resentment of what 'tis too late to remedy. Then it is, that the poor Soul, overwhelmed with a flood of Sor<g ref="char:EOLhyphen"/>row, cannot, without thy strengthening Grace, exercise the Faculties of her Reason and Religi<g ref="char:EOLhyphen"/>on. Give me therefore, O Gracious God, in this Passage, so full of Peril and of so great Im<g ref="char:EOLhyphen"/>portance, all those Christian Dispositions which thy wonted Clemency gives to thy elected and be<g ref="char:EOLhyphen"/>loved Children; that I may well perform this last Duty of Life. Let me consider Death as the
+<pb n="46" facs="tcp:46443:23"/> just Punishment of Sin; and so most willingly receive it, to obey the Law which comprehends all <hi>Adam</hi>'s Race, by whom it was introduced in<g ref="char:EOLhyphen"/>to the World. Let me look upon my Body as a Parcel of Old <hi>Adam,</hi> deserving to return into Dust, and only fit for Corruption. Let me ren<g ref="char:EOLhyphen"/>der unto thy Majesty most hearty Thanks for vouchsafing, by Death, to deliver my Soul from the Law of these Corporal Members, which kept it so long enslaved under the Law of Sin. Let me freely offer up to thee my Life in Sacrifice; and let thy Love be the Fire, not only to purify, but also to enable this my Oblation, which is of it self so contemptible. O Sovereign Lord of Life and Death; I resignedly leave to the conduct of thy Providence, all that concerns my poor Soul's departure out of the Body, as to the Time, the Place, the Assistants, the Consolations, the De<g ref="char:EOLhyphen"/>sertions, and all other Circumstances. I only beg that thy Holy Grace may not abandon me then, when all Humane Helps must of necessity become useless unto me. In the mean time, let Death, O God, be my continual Looking-glass, to keep me from wilfully offending thy Divine Majesty; to check my immoderate Affection to this Life; which is so incertain in its Duration, and so certain in it's Misery: And also to mind me, that each moment of time I live may be my last, wherein I must appear before thy dreadful Tribunal, to render an account of my Actions, and to receive a Sentence, irrevocable for all E<g ref="char:EOLhyphen"/>etrnity. Give me, O Lord, in this Article of my
+<pb n="47" facs="tcp:46443:23"/> Death, perfect Integrity of my Senses, true Con<g ref="char:EOLhyphen"/>trition for my Sins, a lively Faith, a firm Hope, and a perfect Charity; that I may then say un<g ref="char:EOLhyphen"/>to thee, with a pure and clean Heart, Into thy Hands, O my Saviour Jesu, I commend my Spirit. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Lately Published,</head>
+            <p>AN Exposition on the <hi>Ten Commandments;</hi> With other Sermons. By the Right Re<g ref="char:EOLhyphen"/>verend Father in God, <hi>Ezekiel Hopkins,</hi> late Lord Bishop of <hi>London-Derry.</hi>
+            </p>
+            <p>Sold by <hi>J. Robinson in</hi> St. <hi>Paul</hi>'s Church-Yard.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
